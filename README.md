@@ -3,7 +3,8 @@
 
 
 ![Hi 👋, I'm Sheetal Neeraj](https://github.com/sheetalneeraj/sheetalneeraj/blob/main/Sheetal_Neeraj.gif)
-<img src="https://drive.google.com/file/d/1k5QWK5s2NV4L2bdsToVCZHiU-lnuNrQC/view" width="40" height="40" />
+<img src="https://github.com/sheetalneeraj/sheetalneeraj/blob/main/Sheetal.png" width="40" height="40" />
+<img src="https://github.com/sheetalneeraj/sheetalneeraj/blob/main/Sheetal_Neeraj.gif" width="40" height="40" />
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
