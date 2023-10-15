@@ -3,6 +3,7 @@
 
 
 ![Hi 👋, I'm Sheetal Neeraj](https://drive.google.com/file/d/1k5QWK5s2NV4L2bdsToVCZHiU-lnuNrQC/view)
+<img src="https://drive.google.com/file/d/1k5QWK5s2NV4L2bdsToVCZHiU-lnuNrQC/view" width="40" height="40" />
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
