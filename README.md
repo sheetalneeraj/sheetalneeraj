@@ -1,10 +1,5 @@
 
-<h1 align="center">Hi 👋, I'm Sheetal Neeraj</h1>
-
-
-![Hi 👋, I'm Sheetal Neeraj](https://github.com/sheetalneeraj/sheetalneeraj/blob/main/Sheetal_Neeraj.gif)
-<img src="https://github.com/sheetalneeraj/sheetalneeraj/blob/main/Sheetal.png" width="40" height="40" />
-<img src="https://github.com/sheetalneeraj/sheetalneeraj/blob/main/Sheetal_Neeraj.gif" width="40" height="40" />
+<h1 align="center">Welcome to my GitHub profile! 👋 I'm a software developer </h1>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
