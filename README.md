@@ -4,8 +4,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/sheetal-neeraj" target="blank"><img align="center" src="https://banner2.cleanpng.com/20171202/f59/linkedin-download-png-5a22d420d16602.1978549215122319688577.jpg" alt="sheetal-neeraj" height="30" width="40" /></a>
-<a href="https://www.codechef.com/users/sn15" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="sn15" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/sheetalneeraj" target="blank"><img align="center" src="https://github.com/LeetCode-OpenSource/vscode-leetcode/blob/master/resources/LeetCode.svg" alt="sheetalneeraj" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/sheetalneeraj" target="blank"><img align="center" src="https://github.com/LeetCode-OpenSource/vscode-leetcode/blob/master/resources/LeetCode.svg" alt="LeetCode" height="30" width="40" /></a>
 <a href="https://auth.geeksforgeeks.org/user/sheetalneeraj1503" target="blank"><img align="center" src="https://gourocklawnsllp.com/wp-content/uploads/2021/05/gfg_200x200-min-8.png" alt="sheetalneeraj1503" height="30" width="40" /></a>
 <br><br> <img align="center" src="https://i.pinimg.com/originals/c3/0e/ee/c30eee73a5e3d31b072f555985175165.jpg" alt="Email Id :" height="30" width="40">sheetalneeraj1503@gmail.com
 </p>
