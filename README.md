@@ -20,7 +20,7 @@ Hi there! I'm Sheetal, a passionate software developer 💻 with a knack for bui
 
 <h2 align="center">Connect with Me</h2>
 
-- [LinkedIn](linkedin.com/in/sheetal-neeraj) 💼
+- [LinkedIn](www.linkedin.com/in/sheetal- neeraj) 💼
 - [Email](sheetalneeraj1503@gmail.com) ✉️
 
 <h2 align="center">Always Learning, Always Growing</h2>
